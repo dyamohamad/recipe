@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/nav_contact_profile"
+        app:startDestination="@id/MainFragment"
+        tools:ignore="UnusedNavigation">
+
+    <fragment
+            android:id="@+id/MainFragment"
+            android:name="com.example.fourtitudeasia.ui.MainFragment"
+            android:label="ContactProfileFragment" >
+        <action
+            android:id="@+id/action_MainFragment_to_scrollingFragment"
+            app:destination="@id/scrollingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/scrollingFragment"
+        android:name="com.example.fourtitudeasia.ui.ScrollingFragment"
+        android:label="ScrollingFragment" >
+        <action
+            android:id="@+id/action_scrollingFragment_to_MainFragment"
+            app:destination="@id/MainFragment" />
+    </fragment>
+</navigation>

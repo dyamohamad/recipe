@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/_20pxdp"
+    android:orientation="vertical"
+    >
+
+
+
+    <Spinner
+        android:id="@+id/spinner_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_16pxdp"
+        style="@android:style/Widget.Material.Spinner">
+
+    </Spinner>
+
+
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/categoryEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/add"
+            />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

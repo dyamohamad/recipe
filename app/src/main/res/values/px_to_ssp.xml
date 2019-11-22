@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Formula: Refer to sw330dp, refer to the SP, find the related SSP-->
+    <dimen name="_1pxsp">@dimen/_1ssp</dimen>
+    <dimen name="_2pxsp">@dimen/_2ssp</dimen>
+    <dimen name="_3pxsp">@dimen/_3ssp</dimen>
+    <dimen name="_4pxsp">@dimen/_4ssp</dimen>
+    <dimen name="_5pxsp">@dimen/_4ssp</dimen>
+    <dimen name="_6pxsp">@dimen/_5ssp</dimen>
+    <dimen name="_7pxsp">@dimen/_6ssp</dimen>
+    <dimen name="_8pxsp">@dimen/_7ssp</dimen>
+    <dimen name="_9pxsp">@dimen/_8ssp</dimen>
+    <dimen name="_10pxsp">@dimen/_9ssp</dimen>
+    <dimen name="_11pxsp">@dimen/_10ssp</dimen>
+    <dimen name="_12pxsp">@dimen/_11ssp</dimen>
+    <dimen name="_13pxsp">@dimen/_12ssp</dimen>
+    <dimen name="_14pxsp">@dimen/_13ssp</dimen>
+    <dimen name="_15pxsp">@dimen/_14ssp</dimen>
+    <dimen name="_16pxsp">@dimen/_14ssp</dimen>
+    <dimen name="_17pxsp">@dimen/_15ssp</dimen>
+    <dimen name="_18pxsp">@dimen/_16ssp</dimen>
+    <dimen name="_19pxsp">@dimen/_17ssp</dimen>
+    <dimen name="_20pxsp">@dimen/_18ssp</dimen>
+    <dimen name="_21pxsp">@dimen/_19ssp</dimen>
+    <dimen name="_22pxsp">@dimen/_20ssp</dimen>
+    <dimen name="_23pxsp">@dimen/_21ssp</dimen>
+    <dimen name="_24pxsp">@dimen/_22ssp</dimen>
+    <dimen name="_25pxsp">@dimen/_23ssp</dimen>
+    <dimen name="_26pxsp">@dimen/_24ssp</dimen>
+    <dimen name="_27pxsp">@dimen/_24ssp</dimen>
+    <dimen name="_28pxsp">@dimen/_25ssp</dimen>
+    <dimen name="_29pxsp">@dimen/_26ssp</dimen>
+    <dimen name="_30pxsp">@dimen/_27ssp</dimen>
+</resources>
